@@ -1,0 +1,7 @@
+/Users/yunsungsong/.Rapp.history
+getwd()
+getwd()
+setwd()
+setwd("/users/yunsungsong/documents")
+setwd("/users/yunsungsong/documents/r")
+getwd()

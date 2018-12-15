@@ -1,0 +1,33 @@
+
+R version 3.5.1 (2018-07-02) -- "Feather Spray"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[R.app GUI 1.70 (7543) x86_64-apple-darwin15.6.0]
+
+[History restored from /Users/yunsungsong/.Rapp.history]
+
+> getwd()
+[1] "/Users/yunsungsong"
+> setwd()
+Error in setwd() : argument "dir" is missing, with no default
+> setwd("/users/yunsungsong/documents")
+> setwd("/users/yunsungsong/documents/r")
+> getwd()
+[1] "/Users/yunsungsong/Documents/R"
+objc[618]: Class FIFinderSyncExtensionHost is implemented in both /System/Library/PrivateFrameworks/FinderKit.framework/Versions/A/FinderKit (0x7fffaee18c90) and /System/Library/PrivateFrameworks/FileProvider.framework/OverrideBundles/FinderSyncCollaborationFileProviderOverride.bundle/Contents/MacOS/FinderSyncCollaborationFileProviderOverride (0x10d9bccd8). One of the two will be used. Which one is undefined.
+> 
